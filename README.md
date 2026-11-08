@@ -1,8 +1,8 @@
-# Nurse Canvas
+# CAVAM
 
 > A Privacy-First, Edge-AI Driven Workflow Orchestrator for Clinical & Enterprise Operations.
 >
-Nurse Canvas & Nurse Canvas - Pocket
+CAVAM & CAVAM - Pocket
 Capturing Tacit Knowledge & Driving Schema-Gated Orchestration: The Next-Generation Workflow Router for the AI Era.
 
 💡 Concept & Core Philosophy
@@ -18,7 +18,7 @@ Currently, global enterprise AI adoption is hitting an inflection point: the "In
 Approach: Logging Human Dynamics via "Remote Control AI" Discarding the illusion of complete automation, we implement "semi-automation for cognitive assistance and the manifestation of arbitrariness." By giving users a personal "Remote Control AI," we log the "semantic shifts and dynamic changes" that occur within the human mind, integrating them into next-generation data structures.
 Core Tech: Routing via Cartesian Mapping & State By cross-referencing static "Cartesian Mapping" (existing skill sheets and career definitions) with dynamic "State" (emotional and cognitive load extracted from natural language), the system automatically routes tasks to the optimal infrastructure and personnel.
 
-2. Go-To-Market Strategy: BtoC Model "Nurse Canvas - Pocket"
+2. Go-To-Market Strategy: BtoC Model "CAVAM - Pocket"
 A sandbox-style personal AI designed as a "Trojan Horse" to hack the market.
 1-Minute Voice Diary UI (Snatching Tacit Knowledge): Morning, afternoon, and during emergencies. A mere 1-minute voice log spoken by a nurse on the move. The AI aggressively extracts the "arbitrary human intent"—the missing blank in ERP data—from this natural language.
 Non-linear Mapping Engine "Imigi" & Forward Engineering:
@@ -29,7 +29,7 @@ Values (Transition Direction): The vector of "how the user wants to shift their 
 Approach to Dynamic Convergence: The current MVP demonstrates a fundamental pipeline separating context (tacit knowledge) and emotion from text. This 3-slider parameter group serves as the core specification for Forward Engineering, allowing general LLMs to recognize real-time frontline States and route optimal information to the subsequent "Schema-Gated Orchestration."
 Edge Privacy Filter (PHI Masking): Automatically masks personal attributes, proper nouns, and organization names at the edge (device level). It thoroughly guarantees privacy while capitalizing on personal experience as a secure "Local Ghost DB."
 
-4. Long-Term Vision: Hospital BtoB Model "Nurse Canvas"
+4. Long-Term Vision: Hospital BtoB Model "CAVAM"
 Connecting the convergence points of tacit knowledge extracted from the BtoC model to hospital-wide workflow automation.
 Information Convergence to Schema-Gated Orchestration: Pipes the structured "Human State" and "Arbitrariness" data extracted by the BtoC model into validation gates (schemas) for safe task execution by the system. This prevents AI hallucinations and ensures definitive workflow transformation.
 Cognitive Load Balancer & Task Shifting: AI detects traffic jams on the frontline. By calculating the human Cartesian Mapping (skills) and current State (cognitive load), it automatically executes optimal task routing to nursing assistants or PT/OT/STs.
@@ -37,7 +37,7 @@ Hardware Inception (Redefining Business Smartphones): Floods the frontline with 
 
 6. MVP Implementation, Tech Stack & PoC Validation
 Deployed MVP Scope (BtoB Hospital Business Model)
-We have deployed a frontend mockup of the BtoB "Nurse Canvas" that faithfully reproduces the core system architecture diagram.
+We have deployed a frontend mockup of the BtoB "CAVAM" that faithfully reproduces the core system architecture diagram.
 1-Tap Bedside Logging & W-Check Pool: A UI designed to minimize cognitive load. Features 1-tap recording of vitals/suction, automated chart drafting, and asynchronous W-Check approval by senior nurses.
 Cognitive Load Balancer (Manager Dashboard): A correlation analysis canvas that cross-references stealth nurse call frequencies with the assigned nurse's fatigue levels (mental/physical), exposing the Root Cause Analysis (RCA) of incidents as systemic traffic jams rather than individual errors.
 Ghost Phase Matrix (Imigi Module): Automatically maps the patient's psychological state into a 4-quadrant grid (Acceptance of Illness × Post-Discharge Motivation) based on intuitive logs from nursing assistants, providing the system's suggested next actions for task-shifting.

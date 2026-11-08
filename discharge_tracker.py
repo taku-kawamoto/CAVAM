@@ -7,7 +7,7 @@ if "assistant_logs" not in st.session_state:
 if "temp_activity" not in st.session_state:
     st.session_state.temp_activity = "未選択"
 
-st.set_page_config(page_title="Nurse Canvas - 患者変遷トラッカー", layout="wide")
+st.set_page_config(page_title="CAVAM - 患者変遷トラッカー", layout="wide")
 
 # ==========================================
 # 1. 医療補助者（入力センサー）UI
