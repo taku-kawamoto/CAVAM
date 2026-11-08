@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from models import Patient, Device, NurseSession, MockWardGenerator
 
 # [EN] Set ide layout / [JA] 画面を広く使う設定
-st.set_page_config(layout="wide", page_title="Nurse Canvas MVP")
+st.set_page_config(layout="wide", page_title="CAVAM MVP")
 
 # ==========================================
 # 💅 【Step 1】Global CSS (Saas-like UI optimization)
@@ -90,7 +90,7 @@ def page_login():
     [EN] Authentication page. Collect qualitative fatigue data.
     [JA] ログイン画面。勤務開始時に定性的な疲労データを収集し、管理ダッシュボードへ同期する。
     """
-    st.title("🔑 Nurse Canvas : 勤務開始認証")
+    st.title("🔑 CAVAM : 勤務開始認証")
     st.write("デモ用のプリセットキャラクターを選択してください。")
 
     selected_preset = st.selectbox("ログイン・キャラクター", list(PRESET_NURSES.keys()))
@@ -113,7 +113,7 @@ def page_bedside(current_nurse):
     [EN] Bedside UI. Designed for 1-tap logging to minimize congnitive load.
     [JA] ベッドサイド入力画面。認知負荷を下げるため「1タップ記憶」を徹底した現場UI。
     """
-    st.title("🏥 Nurse Canvas : ベッドサイド管理")
+    st.title("🏥 CAVAM : ベッドサイド管理")
     selected_patient_id = st.selectbox("担当患者を選択", options=list(st.session_state["patients"].keys()), format_func=lambda x: f"{st.session_state['patients'][x].bed_no} : {x}")
     current_patient = st.session_state["patients"][selected_patient_id]
 
